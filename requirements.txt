@@ -1,9 +1,9 @@
 omegaconf==2.3.0
 asyncio==3.4.3
-torch==2.3.0
+torch==2.2.1
 langchain==0.2.3
 langchain-openai==0.1.8
 numpy
-pandas==2.0.0
+pandas==1.5.0
 networkx==3.0
 wandb==0.17.1
